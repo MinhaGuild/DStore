@@ -1,0 +1,7 @@
+C:\_MinhaGuild\DStore\ModelLibrary\bin\Debug\netcoreapp3.1\ModelLibrary.deps.json
+C:\_MinhaGuild\DStore\ModelLibrary\bin\Debug\netcoreapp3.1\ModelLibrary.dll
+C:\_MinhaGuild\DStore\ModelLibrary\bin\Debug\netcoreapp3.1\ModelLibrary.pdb
+C:\_MinhaGuild\DStore\ModelLibrary\obj\Debug\netcoreapp3.1\ModelLibrary.AssemblyInfoInputs.cache
+C:\_MinhaGuild\DStore\ModelLibrary\obj\Debug\netcoreapp3.1\ModelLibrary.AssemblyInfo.cs
+C:\_MinhaGuild\DStore\ModelLibrary\obj\Debug\netcoreapp3.1\ModelLibrary.dll
+C:\_MinhaGuild\DStore\ModelLibrary\obj\Debug\netcoreapp3.1\ModelLibrary.pdb

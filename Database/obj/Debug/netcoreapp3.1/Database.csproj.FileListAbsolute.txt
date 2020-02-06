@@ -1,0 +1,13 @@
+C:\_MinhaGuild\DStore\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+C:\_MinhaGuild\DStore\Database\bin\Debug\netcoreapp3.1\Database.runtimeconfig.json
+C:\_MinhaGuild\DStore\Database\bin\Debug\netcoreapp3.1\Database.runtimeconfig.dev.json
+C:\_MinhaGuild\DStore\Database\bin\Debug\netcoreapp3.1\Database.dll
+C:\_MinhaGuild\DStore\Database\bin\Debug\netcoreapp3.1\Database.pdb
+C:\_MinhaGuild\DStore\Database\bin\Debug\netcoreapp3.1\ModelLibrary.dll
+C:\_MinhaGuild\DStore\Database\bin\Debug\netcoreapp3.1\ModelLibrary.pdb
+C:\_MinhaGuild\DStore\Database\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache
+C:\_MinhaGuild\DStore\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\_MinhaGuild\DStore\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\_MinhaGuild\DStore\Database\obj\Debug\netcoreapp3.1\Database.csproj.CopyComplete
+C:\_MinhaGuild\DStore\Database\obj\Debug\netcoreapp3.1\Database.dll
+C:\_MinhaGuild\DStore\Database\obj\Debug\netcoreapp3.1\Database.pdb
